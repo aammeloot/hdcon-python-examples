@@ -15,7 +15,8 @@ Menu must repeat itself until 5 is selected and input needs to be validated.
     * Loop While not valid
         * Show menu options with prices and option 5 to quit
         * Input choice
-        *If choice is a numeric value then
+        * If choice is a numeric value then
+            * Convert choice to integer
             * If choice is between 1 and 5 then
                 * Set valid to true
             * End if
