@@ -1,3 +1,13 @@
+# Black Friday
+
+## Instructions
+You sell 4 products of your choice with a different price each.
+Offer 5 choices in the menu: choices 1 – 4 are to buy the products
+Choice 5 is to quit and display the total price and a discount of 50%.
+Menu must repeat itself until 5 is selected and input needs to be validated.
+
+## Pseudo code
+
 * Global variable: total, float, set to 0
 * Global variable: choice, integer, initialise to 0
 * Loop While choice is different from 5
